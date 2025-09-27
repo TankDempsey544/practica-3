@@ -1,5 +1,9 @@
 # practica-3
 
+
+SE USO PYTHON 3.10
+SE IMPLEMENTO EL USO DE IA PARA RESOLVER PROBLEMAS DE SINTAXIS Y ORTOGRAFIA DEL README 
+
 python
 import turtle
 Importa la librería para dibujar.
@@ -64,4 +68,5 @@ tortuga.penup()
 Dibuja un cuadrito relleno con el color elegido.
 
 python
+
 pantalla.exitonclick()
